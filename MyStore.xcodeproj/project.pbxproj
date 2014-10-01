@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89107F0E19DC7705004A1F0F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 89107F0D19DC7705004A1F0F /* README.md */; };
 		898866BB19D74A7E00145E06 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 898866BA19D74A7E00145E06 /* Foundation.framework */; };
 		898866BD19D74A7E00145E06 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 898866BC19D74A7E00145E06 /* CoreGraphics.framework */; };
 		898866BF19D74A7E00145E06 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 898866BE19D74A7E00145E06 /* UIKit.framework */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		89107F0D19DC7705004A1F0F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		898866B719D74A7E00145E06 /* MyStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		898866BA19D74A7E00145E06 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		898866BC19D74A7E00145E06 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -92,6 +94,7 @@
 		898866AE19D74A7E00145E06 = {
 			isa = PBXGroup;
 			children = (
+				89107F0D19DC7705004A1F0F /* README.md */,
 				898866C219D74A7E00145E06 /* MyStore */,
 				898866DF19D74A7E00145E06 /* MyStoreTests */,
 				898866B919D74A7E00145E06 /* Frameworks */,
@@ -243,6 +246,7 @@
 			files = (
 				898866C719D74A7E00145E06 /* InfoPlist.strings in Resources */,
 				898866D219D74A7E00145E06 /* Images.xcassets in Resources */,
+				89107F0E19DC7705004A1F0F /* README.md in Resources */,
 				898866F019D74C8300145E06 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
